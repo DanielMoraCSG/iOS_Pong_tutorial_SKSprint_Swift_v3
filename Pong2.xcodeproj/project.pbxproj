@@ -202,7 +202,7 @@
 				TargetAttributes = {
 					353D139B1DD23E0800D85E95 = {
 						CreatedOnToolsVersion = 8.1;
-						DevelopmentTeam = 3DCK4SXD59;
+						DevelopmentTeam = EEM8QJ4J6Y;
 						ProvisioningStyle = Automatic;
 					};
 					353D13B51DD23E0800D85E95 = {
@@ -427,7 +427,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 3DCK4SXD59;
+				DEVELOPMENT_TEAM = EEM8QJ4J6Y;
 				INFOPLIST_FILE = Pong2/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "csgroup.gamepong2-sample.DanielMora.Pong2";
@@ -440,7 +440,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 3DCK4SXD59;
+				DEVELOPMENT_TEAM = EEM8QJ4J6Y;
 				INFOPLIST_FILE = Pong2/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "csgroup.gamepong2-sample.DanielMora.Pong2";
